@@ -1,2 +1,3 @@
-# MOLT: FILE: docker-compose.1.yml ENTRY: entryname
-
+compose-files:
+  - docker-compose.1.yml
+entry: web
