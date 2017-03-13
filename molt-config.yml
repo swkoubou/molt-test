@@ -1,3 +1,6 @@
 compose_files:
   - docker-compose.1.yml
 entry: web
+init: >
+  echo "hello world"
+
